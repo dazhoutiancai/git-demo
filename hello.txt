@@ -6,3 +6,5 @@ sdasdi
 sdasdi hot
 拉取
 peinguin
+
+测试免密
